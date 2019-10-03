@@ -24,9 +24,9 @@ int top = -1;
 void push(char item)
 {
 	if(top >= SIZE-1)
-	{
+	
 		printf("\nStack Overflow.");
-	}
+	
 	else
 	{
 		top = top+1;
