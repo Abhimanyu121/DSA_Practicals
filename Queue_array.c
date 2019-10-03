@@ -11,7 +11,7 @@ void main()
  int ch,i,item;
  while(1)
  {
-  printf("Choose \n1.Insert\n2.Delete\n3.Display\n4.Exit\n");
+  printf("choose \n1.Insert\n2.Delete\n3.Display\n4.Exit\n");
   scanf("%d",&ch);
   switch(ch)
   {
